@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://your-link-to-a-cool-logo-or-banner.png" alt="Gemini TUI Logo" width="400"/>
-</p>
+
 
 # ✨ Gemini TUI Chat ✨
 
@@ -24,9 +22,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://your-link-to-a-killer-demo.gif" alt="GeminiChat TUI Demo" width="80%">
-</p>
 <p align="center"><i>🔥Terminal only</i></p>
 
 ---
