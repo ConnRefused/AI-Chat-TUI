@@ -46,7 +46,7 @@
 
 **(1) Clone the Repo:**
 ```bash
-git clone https://github.com/0xbl1/AI-Chat-TUI
+git clone https://github.com/SysPan1c/AI-Chat-TUI
 
 
 cd into the directory then do python aichat.py if youre having issues
